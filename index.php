@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Key Slam!</title
+<title>Key Slam! Are you ready for some clickin'?!</title
 </head>
 
 <body>
